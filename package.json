@@ -1,18 +1,29 @@
 {
   "name": "@ionic-native/weibosdk",
-  "version": "4.4.2",
-  "description": "Ionic Native - Native plugins for ionic apps",
+  "version": "0.6.1",
+  "description": "ionic Native  - Native weibosdk  plugins for ionic apps",
   "module": "index.js",
   "typings": "index.d.ts",
-  "author": "ionic",
+  "scripts": {
+    "test": "make test"
+  },
+  "author": "xuchao",
   "license": "MIT",
   "peerDependencies": {
     "@ionic-native/core": "^4.2.0",
     "@angular/core": "*",
     "rxjs": "^5.0.1"
   },
+  "keywords": [
+    "weibo",
+    "weibosdk"
+  ],
   "repository": {
     "type": "git",
-    "url": "https://github.com/java-programmer/ionic3-weibosdk.git"
-  }
+    "url": "git+https://github.com/java-programmer/ionic3-weibosdk.git"
+  },
+  "bugs": {
+    "url": "https://github.com/java-programmer/ionic3-weibosdk/issues"
+  },
+  "homepage": "https://github.com/java-programmer/ionic3-weibosdk#readme"
 }
