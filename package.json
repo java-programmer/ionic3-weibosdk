@@ -1,5 +1,5 @@
 {
-  "name": "@ionic-native/weibosdk",
+  "name": "ionic3-weibosdk",
   "version": "0.6.1",
   "description": "ionic Native  - Native weibosdk  plugins for ionic apps",
   "module": "index.js",
